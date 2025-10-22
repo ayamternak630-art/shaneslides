@@ -178,6 +178,33 @@ template: logorb
 Another example: while university curricula may cover technical mechanics of open source development, where are the classes helping new contributors understand how to seek funding or otherwise mnarket their project as a whole, not just as a codebase?
 
 ---
+template: logorb
+# Aspects of Sustainability
+
+.left-column-equal[
+**Who**
+
+- Users
+- Contributors
+- Maintainers
+- PMC / TSC
+- **Foundation Boards**
+]
+.right-column-equal[
+**What**
+- Software Companies
+- Non-Software Companies
+- Educational Institutions
+- **Governments**
+- **Standards Bodies**
+]
+
+.bottomnote[https://fosssustainability.com/aspects/]
+
+???
+And currently, with the CRA and PLD coming in Europe, it's likely that any major open source project will likely face new legal hurdles in Europe.  How do we connect the Foundations that manage and provide support to many of these major projects with the Standards Bodies making up the new rules?  Or the Governments, that are forcing complexity on FOSS projects who don't have the resources to handle that complexity?
+
+---
 template: fullheader
 # Aspects of Sustainability
 
@@ -194,7 +221,15 @@ template: fosdem
 ???
 Never mind the different interest groups; let's just ask: how can you actually transfer funds?  There are many, many different ways, making this a complex topic (so: ask better questions!). 
 
-This is an excellent holistic overview of how funding typically gets to open source contributors, foundations, and more.  From [Kara Sowles' excellent talk at FOSDEM](https://fosdem.org/2024/schedule/event/fosdem-2024-2751-the-state-of-funding-free-open-source-software/) last year.
+This is an excellent holistic overview of how funding typically gets to open source contributors, foundations, and more.  From [Kara Deloss' excellent talk at FOSDEM](https://fosdem.org/2024/schedule/event/fosdem-2024-2751-the-state-of-funding-free-open-source-software/) last year.
+
+---
+template: fullheader
+name: finance
+# Who Funds FOSS Foundations?
+
+???
+OK, Shane, you've shown us all the complexity, how about answering the question?
 
 ---
 template: fullheader
