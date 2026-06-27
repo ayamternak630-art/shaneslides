@@ -1,4 +1,4 @@
----
+---manorianep@yahoo.com
 title: Who Owns That Open Source Brand?
 description: Demystifying trademarks and brands in open source
 conference: OSSummit
